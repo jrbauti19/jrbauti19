@@ -29,7 +29,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)]([https://joshua-bautista.vercel.app](https://self-portfolio-puce.vercel.app/))
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-bautista-dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/joshua-bautista-dev](https://www.linkedin.com/in/joshua-raphael-bautista-8a019a11b/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jrbauti19@gmail.com)
 
 ---
