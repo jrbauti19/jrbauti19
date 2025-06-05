@@ -4,7 +4,7 @@
 - 💼 Software Developer at **EXL** and **Grand Canyon University**
 - 🔧 Expert in **React.js, GraphQL, TypeScript, and Node.js**
 - 📊 Building scalable solutions for **100,000+ users**
-- 🎯 Passionate about **frontend architecture** and **CI/CD pipelines**
+- 🎯 Passionate about **frontend architecture**
 - 📍 Based in **Phoenix, AZ**
 
 ## 🛠️ Tech Stack
