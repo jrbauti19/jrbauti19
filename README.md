@@ -26,7 +26,7 @@
 
 ## 🏆 Featured Projects
 [![Halo Learn](https://img.shields.io/badge/-Halo%20Learn-4c8aa8?style=for-the-badge)](https://halo.gcu.edu/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)]([https://joshua-bautista.vercel.app](https://self-portfolio-puce.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://self-portfolio-puce.vercel.app/)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/joshua-bautista-dev](https://www.linkedin.com/in/joshua-raphael-bautista-8a019a11b/))
