@@ -23,12 +23,10 @@
 - 🧪 **Testing Excellence**: Maintaining 85%+ code coverage with Jest
 - 🚀 **CI/CD Mastery**: Zero-downtime deployments with Docker & Azure
 
-## 📈 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrbauti19&show_icons=true&theme=dark)
 
 ## 🏆 Featured Projects
 [![Halo Learn](https://img.shields.io/badge/-Halo%20Learn-4c8aa8?style=for-the-badge)](https://halo.gcu.edu/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://joshua-bautista.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)]([https://joshua-bautista.vercel.app](https://self-portfolio-puce.vercel.app/))
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-bautista-dev)
