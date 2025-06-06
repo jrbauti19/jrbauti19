@@ -27,7 +27,6 @@
 - 🤖 **AI Integration**: Experimenting with incorporating AI tools into development workflows
 
 ## 🔥 What Drives Me
-- 🎓 **Halo Learn**: Crafting educational experiences for 100K+ students at GCU
 - ⚡ **Performance Fanatic**: Achieved 40% API response time reduction through smart optimization
 - 🧪 **Quality Obsessed**: Maintaining 85%+ test coverage because bugs are not invited to my party
 - 🚀 **DevOps Enthusiast**: Zero-downtime deployments with Docker & Azure (sleep is overrated anyway)
