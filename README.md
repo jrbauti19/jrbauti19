@@ -17,6 +17,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
+## 🌱 Currently Learning & Exploring
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+- 🔥 **Angular**: Diving deep into enterprise-grade framework architecture and TypeScript patterns
+- 💚 **Vue.js**: Exploring the composition API and building reactive, component-driven applications
+- 🧪 **Micro-frontends**: Researching modular frontend architectures for scalable applications
+- 🤖 **AI Integration**: Experimenting with incorporating AI tools into development workflows
+
 ## 🔥 What Drives Me
 - 🎓 **Halo Learn**: Crafting educational experiences for 100K+ students at GCU
 - ⚡ **Performance Fanatic**: Achieved 40% API response time reduction through smart optimization
@@ -30,7 +39,6 @@
 - 📖 **Reading** tech blogs, sci-fi novels, and anything about space exploration
 - 🍳 **Cooking** - Experimenting with new recipes (my code isn't the only thing I debug)
 - 🏀 **Basketball** - Sunday pickup games keep me sharp on and off the court
-- 🎵 **Music Production** - Creating beats and mixing tracks in my spare time
 
 ## 🏆 Featured Work
 [![Halo Learn](https://img.shields.io/badge/-Halo%20Learn-4c8aa8?style=for-the-badge&logo=graduation-cap)](https://halo.gcu.edu/)
